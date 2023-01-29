@@ -4,7 +4,7 @@ Official implementation of "Towards End-to-end Semi-supervised Learning for One-
 OneTeacher is a semi-supervised framework for YOLOV5, which is equiped with two novel designs, namely Multi-view Pseudo-label Refinement and Decoupled Semi-supervised Optimization.
 
 <p align="center">
-	<img src="data/images/OneTeacher.jpg" width="1000">
+	<img src="./data/images/OneTeacher.jpg" width="1000">
 </p>
 
 ## Updates 

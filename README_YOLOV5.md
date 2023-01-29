@@ -52,9 +52,9 @@ YOLOv5 🚀 is a family of object detection architectures and models pretrained 
 
 </div>
 
-## <div align="center">Semi-Supervised</div>
+## <div align="center">OneTeacher</div>
 
-See the [ReadmeForSemi](https://github.com/luogen1996/semi-yolov5/blob/main/ReadmeForSemi.md) for a detailed description of the guidance of One-Stage Semi-Supervised Object Detection Test Plan.
+See  [README](./README.md) for the detailed description of OneTeacher.
 
 ## <div align="center">Documentation</div>
 
