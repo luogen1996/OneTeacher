@@ -1,6 +1,6 @@
 # OneTeacher
 
-Official implementation of "Towards End-to-end Semi-supervised Learning for One-stage Object Detection".
+Official implementation of  "Towards End-to-end Semi-supervised Learning for One-stage Object Detection".
 OneTeacher is a semi-supervised framework for YOLOV5, which is equiped with two novel designs, namely Multi-view Pseudo-label Refinement and Decoupled Semi-supervised Optimization.
 
 <p align="center">
@@ -8,7 +8,7 @@ OneTeacher is a semi-supervised framework for YOLOV5, which is equiped with two 
 </p>
 
 ## Updates 
-- (2023/1/29) Release our RepAdapter project.
+- (2023/1/29) Release our  project.
 
 ## Data Preparation
 1. Prepare the datasets of COCO and VOC, please refer to [YOLOv5](./README_YOLOV5.md)
